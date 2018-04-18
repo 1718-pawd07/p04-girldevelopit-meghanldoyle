@@ -11,8 +11,8 @@
   * Links to social media sites
 
 ## HTML Requirements (10pts)
-* Use the full structure: <!DOCTYPE html>, <html>, <head>, <title>, <body>
-* Put the <body> code into the three layout sections <header>, <main>, and <footer>
+* Use the full structure: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<body>`
+* Put the <body> code into the three layout sections `<header>`, `<main>`, and `<footer>`
 
 ## Head Section (10pts)
 * Give your website an appropriate title that corresponds to the content
@@ -23,7 +23,7 @@
 * Properly link your CSS file to your HTML file
  
 ## CSS Requirements (10pts)
-* ALL formatting must be done using CSS (including image sizes) with the exception of <i> and <b> for text in the About section.
+* ALL formatting must be done using CSS (including image sizes) with the exception of `<i>` and `<b>` for text in the About section.
 * Mimic the same font styles for each of the headings as displayed in the image
 * Links should appear using the default link style (like above)
 * Make the links in the lists change color and get bigger when the mouse hovers over each one (focus too)
